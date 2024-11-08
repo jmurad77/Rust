@@ -1,0 +1,1 @@
+/home/cotme/Desktop/Programming/Rust/one_billion_lines_of_weather_data/target/debug/one_billion_lines_of_weather_data: /home/cotme/Desktop/Programming/Rust/one_billion_lines_of_weather_data/src/main.rs
